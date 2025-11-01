@@ -135,7 +135,7 @@ input[type=checkbox]:checked + label:before {
     padding: 200px;
 
 }
-n
+
 /*=====CUISINE PAGE MENU=====*/
 
 .cuisine-list a {
@@ -221,6 +221,32 @@ n
 .restuarant-details-steps ol {
     padding-left: 28px;
 }
+
+/*==========THANK YOU=========*/
+
+.body-thank-you{
+    background-image:url('images/Thank\ you!\ page.png');
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+
+#thank-you {
+    padding-top: 70px;
+    padding: 350px;
+
+}
+
+.thank-you-list a {
+    text-decoration:none;
+    color: #3ba83b;
+    padding-left: 100px;
+
+}
+
+
+
 
 
 
